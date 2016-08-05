@@ -1,6 +1,6 @@
 var guesses = [];
 var misses = 0;
-var word = "ABALONE";
+var word = "SCRIPTED";
 
 function updateWord() {
   $("#word").empty();
